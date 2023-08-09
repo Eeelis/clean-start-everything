@@ -20,6 +20,6 @@ Setup:
 7. Choose "At log on" and click ok.
 8. Select the Actions tab, and click New to add a new action.
 9. Find and select CleanStartEverything.exe by clicking Browse.
-10. If you are on a lap top, make sure to untick "Start the task only if the computer is on AC power" in the Conditions tab.
+10. If you are on a lap top, untick "Start the task only if the computer is on AC power" in the Conditions tab.
 11. Click OK.
 12. Restart your computer. Everything should now launch without a UAC prompt and stay in the background, ready to be used with EverythingToolbar.
