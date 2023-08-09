@@ -17,7 +17,7 @@ Setup:
 4. Give the task an appropriate name.
 5. Tick "Run with highest privileges"
 6. Select the Triggers tab, and click New to add a new trigger.
-7. Choose "At log on" and click ok.
+7. Choose "At log on" and click OK.
 8. Select the Actions tab, and click New to add a new action.
 9. Find and select CleanStartEverything.exe by clicking Browse.
 10. If you are on a laptop, untick "Start the task only if the computer is on AC power" in the Conditions tab.
