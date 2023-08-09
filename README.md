@@ -1,7 +1,7 @@
 # clean-start-everything
-[Everything]https://www.voidtools.com/ is an exceptionally fast file explorer developed by Voidtools. This script enables clean start-up execution of Everything, without displaying a window or triggering a UAC prompt.
+[Everything](https://www.voidtools.com/) is an exceptionally fast file explorer developed by Voidtools. This script enables clean start-up execution of Everything, without displaying a window or triggering a UAC prompt.
 
-Recommended to use with [EverythingToolbar]https://github.com/srwi/EverythingToolbar
+Recommended to use with [EverythingToolbar](https://github.com/srwi/EverythingToolbar).
 
 <br>
 
