@@ -11,7 +11,7 @@ Recommended to use with [EverythingToolbar](https://github.com/srwi/EverythingTo
 
 Setup:
 
-1. Assuming Everything.exe is stored in the default directory C:\Program Files\Everything, download CleanStartEverything.exe under Releases. If Everything.exe is stored somewhere else, you can modify the directory in the source code, and build the program from source.
+1. Assuming Everything.exe is stored in the default directory C:\Program Files\Everything, download CleanStartEverything.exe. If Everything.exe is stored somewhere else, you can modify the directory in the source code, and build the program from source.
 2. Disable Everything in the list of apps under Settings > Startup. If you have created scheduled tasks or shortcuts related to launching Everything, delete them.
 3. Create a new task by launching the Task Scheduler, and clicking "Create Task".
 4. Give the task an appropriate name.
