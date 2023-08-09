@@ -11,7 +11,3 @@ time.sleep(0.25)
 # Find the window and close it
 window = gw.getWindowsWithTitle("Everything")[0]
 window.close()
-
-
-
-    
